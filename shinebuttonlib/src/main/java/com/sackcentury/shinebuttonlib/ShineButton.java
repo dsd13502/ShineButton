@@ -60,7 +60,6 @@ public class ShineButton extends PorterShapeImageView {
         initButton(context, attrs);
     }
 
-
     public ShineButton(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         initButton(context, attrs);
